@@ -4,7 +4,7 @@
 
 아 픽셀콩즈는 1만개의 고 부가가치 PFP NFT라콩~ 아 추후 게임과 연동된다콩~ 아 기대하라콩ㅋㅋ
 
-[오픈씨](https://opensea.io/collection/pixel-kongz)
+- [오픈씨](https://opensea.io/collection/pixel-kongz)
 
 ### Schedule
 - 민팅일정1: 1월 8일 밤 8시, 3천개, 59 Klay
