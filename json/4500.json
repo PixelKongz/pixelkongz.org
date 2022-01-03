@@ -1,7 +1,7 @@
 {
   "name": "Pixel Kongz #4500",
   "description": "Pixel Kongz are unique and randomly generated 2D NFT Social Avatars for your online experiences. Some appear normal. Some look weird. Some are just damn cool!",
-  "image": "ipfs://NewUriToReplace/4500.png",
+  "image": "https://pixelkongz.org/images/4500.png",
   "dna": "c0077b05dcb6c6598008c4667a730708d973054d",
   "edition": 4500,
   "date": 1641142978893,
