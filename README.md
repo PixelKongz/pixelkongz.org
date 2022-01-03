@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to PixelKongz!
+
+![Image](https://pixelkongz.org/images/81.png)
 
 You can use the [editor on GitHub](https://github.com/PixelKongz/pixelkongz.org/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
