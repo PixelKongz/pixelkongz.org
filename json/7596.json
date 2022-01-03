@@ -1,0 +1,35 @@
+{
+  "name": "Pixel Kongz #7596",
+  "description": "Pixel Kongz are unique and randomly generated 2D NFT Social Avatars for your online experiences. Some appear normal. Some look weird. Some are just damn cool!",
+  "image": "ipfs://NewUriToReplace/7596.png",
+  "dna": "618f5514ffe832b3c13943cb35d193ef7ae35d95",
+  "edition": 7596,
+  "date": 1641144076832,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "skin",
+      "value": "navy skin"
+    },
+    {
+      "trait_type": "cloth",
+      "value": "t shirt"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "face mask"
+    },
+    {
+      "trait_type": "hat",
+      "value": "pirate bandana"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "cry"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
