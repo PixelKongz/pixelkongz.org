@@ -1,5 +1,7 @@
 ## Welcome to PixelKongz!
 
+![Image](https://pixelkongz.org/images/1.png)
+
 ![Image](https://pixelkongz.org/banner.jpg)
 
 아 픽셀콩즈는 1만개의 고 부가가치 PFP NFT라콩~ 아 추후 게임과 연동된다콩~ 아 기대하라콩ㅋㅋ
