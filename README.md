@@ -1,6 +1,6 @@
 ## Welcome to PixelKongz!
 
-![Image](https://pixelkongz.org/images/1.png)
+![Image](https://pixelkongz.org/images/81.png)
 
 ![Image](https://pixelkongz.org/banner.jpg)
 
