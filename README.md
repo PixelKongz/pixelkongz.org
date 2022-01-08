@@ -19,7 +19,7 @@
 - 이후: 분기마다 게임 출시
 
 ### Minting Page
-추후 안내
+https://pixelkongz.github.io/mintingpage/
 
 ### Support or Contact
 
