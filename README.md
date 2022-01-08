@@ -8,6 +8,9 @@
 
 - [민팅 사이트](https://pixelkongz.github.io/mintingpage/)
 - [오픈씨](https://opensea.io/collection/pixel-kongz)
+- [트위터](https://twitter.com/pixelkongz)
+- [카카오톡 1번방](https://open.kakao.com/o/gaysDmSd)
+- [카카오톡 2번방](https://open.kakao.com/o/gloDLNSd)
 
 ### Schedule
 - 민팅일정1: 1월 8일 밤 8시, 3천개, 59 Klay
